@@ -1,0 +1,9 @@
+SecureP2PShare — test download
+
+This file is a simple plaintext sample used to verify decrypt,
+save, and open behavior after a peer-to-peer transfer.
+
+Line 4: Numbers 1 2 3
+Line 5: Symbols ! @ # $
+
+End of file.
