@@ -141,4 +141,6 @@ This is not production-safe torrent software. Missing features include:
 - authentication / encryption of peer traffic
 - DHT, multi-peer parallel download, tit-for-tat, rarest-first scheduling
 - NAT traversal techniques (UPnP, STUN/TURN, hole punching)
-- abuse protection and peer reputation
+- abuse protection and p
+
+
